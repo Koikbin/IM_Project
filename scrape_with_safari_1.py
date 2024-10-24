@@ -39,8 +39,8 @@ def login_to_threads(username, password):
         # print(Pass)
 
 def scrape_with_safari():
-    username = "kaoming777@gmail.com"
-    password = "065908214Mm"
+    username = "account"
+    password = "passwords"
 
     # Login to Threads
     login_to_threads(username, password)
